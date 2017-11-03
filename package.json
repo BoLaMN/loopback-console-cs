@@ -1,0 +1,27 @@
+{
+  "name": "loopback-console-cs",
+  "version": "1.0.0",
+  "description": "A command-line tool for Loopback app debugging and administration with coffee-script",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoLaMN/loopback-console-cs.git"
+  },
+  "author": "Nathan Bolam <bolamnathan@gmail.com>",
+  "homepage": "https://github.com/BoLaMN/loopback-console-cs",
+  "contributors": [
+    {
+      "name": "Heath Morrison",
+      "email": "heath@govright.org"
+    }
+  ],
+  "scripts": {},
+  "bin": {
+    "loopback-console-cs": "./bin/loopback-console-cs"
+  },
+  "dependencies": {
+    "coffee-script": "^1.12.7"
+  },
+  "devDependencies": {}
+}
